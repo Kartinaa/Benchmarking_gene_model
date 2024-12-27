@@ -1,0 +1,11 @@
+﻿,‘min_freq’ > 100,Pass PAINS filter,Number of BM scaffolds exist in ZINC20,Number of BM scaffolds exist in ZINC22
+FDA,0.786,0.962,0.485,0.513
+ChEMBL,0.841,0.960,0.418,0.428
+crossdock,0.737,0.963,0.243,0.328
+3DSBDD,0.439,0.991,0.253,0.279
+pocket2mol,0.602,0.968,0.413,0.431
+Targetdiff,0.217,0.978,0.113,0.132
+Decompdiff,0.476,0.979,0.175,0.229
+Decompopt,0.530,0.972,0.216,0.285
+Molsnapper,0.533,0.958,0.130,0.274
+PMDM,0.227,0.942,0.118,0.134 
